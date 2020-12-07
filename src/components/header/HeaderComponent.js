@@ -140,9 +140,9 @@ function HeaderComponent() {
                 <DropdownComponent
                     label={
                         <>
-                            <span className={classes.name}>Germán Llorente</span>
+                            <span className={classes.name}>Kumomi</span>
                             <img
-                                src='https://avatars3.githubusercontent.com/u/21162888?s=460&v=4'
+                                src='https://avatars0.githubusercontent.com/u/68973000?s=400&u=e5eefb64c47a379b5b650a9bb60dddf8b96d970c&v=4'
                                 alt='avatar'
                                 className={classes.avatar}
                             />
