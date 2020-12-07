@@ -55,7 +55,7 @@ function SidebarComponent() {
             <MenuItem
                 id={SLUGS.overview}
                 items={[SLUGS.overviewTwo, SLUGS.overviewThree]}
-                title='Overview'
+                title='Agregar usuarios'
                 icon={IconOverview}
             >
                 <MenuItem
